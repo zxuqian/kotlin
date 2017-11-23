@@ -1,7 +1,5 @@
 # Kotlin - Wildfly Swarm - Hibernate OGM
 
----------------------------------
-
 ## Introduction
 
 This is an example of how to use Kotlin to implement Wildfly Swarm application. The JPA part uses Hibernate OGM for
