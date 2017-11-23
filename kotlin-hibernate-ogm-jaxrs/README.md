@@ -5,7 +5,7 @@ NoSQL orm. The backend database is Mongodb, with the default connection configur
 
 
 ## Run the application
-Simple import it into any IDE as a maven project, then run **wildfly-swarm:run** goal, or run **mvn package** then run
+Simple import it into any IDE as a maven project, then run **mvn wildfly-swarm:run** goal, or run **mvn package** then run
 **java -jar kotlin-hibernate-orm-jaxrs-swarm.jar**. 
 
 After running, access **http://localhost:8080** in your web browser.
